@@ -21,6 +21,7 @@
   Accuracy: 85%
   Precision: 80%
   F1-score: 83%
+  
 7.Future Work:
   Explore techniques for improving model performance.
   Extend the project to classify different types of brain tumors.
