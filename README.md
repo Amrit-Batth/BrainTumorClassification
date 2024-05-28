@@ -9,6 +9,7 @@
   Copy code:
   git clone https://github.com/Amrit-Batth/Brain-Tumor-Classification.git
 3.Extract zip file 
+
 4. Model Training:
   The deep learning model is based on a convolutional neural network (CNN) architecture. It is trained using the SGD optimizer with a 
   categorical cross-entropy loss function.
